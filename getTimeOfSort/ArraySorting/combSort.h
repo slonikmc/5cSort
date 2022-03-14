@@ -9,4 +9,6 @@
 
 void combSort(int *a, const size_t size);
 
+long long getCombSortNComps(int *a, const size_t size);
+
 #endif //INC_5C_COMBSORT_H

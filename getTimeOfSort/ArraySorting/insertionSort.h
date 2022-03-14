@@ -9,4 +9,6 @@
 
 void insertionSort(int *a, const size_t n);
 
+long long getInsertionSortNComp(int *a, const size_t n);
+
 #endif //INC_5C_INSERTIONSORT_H

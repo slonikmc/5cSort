@@ -9,4 +9,6 @@
 
 void ShellSort(int *a, const size_t n);
 
+long long getShellSortNComp(int *a, const size_t n);
+
 #endif //INC_5C_SHELLSORT_H

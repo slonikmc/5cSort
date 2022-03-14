@@ -9,4 +9,6 @@
 
 void selectionSort(int *a, const size_t n);
 
+long long getSelectionSortNComp(int *a, size_t n);
+
 #endif //INC_5C_SELECTIONSORT_H

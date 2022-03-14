@@ -35,6 +35,12 @@ void checkTime(void (*sort)(int *, size_t),
                void (*generate)(int *, size_t),
                size_t size, char *experimentName);
 
+void checkComps(long long (*sortFunc)(int *, size_t),
+                void (*generateFunc)(int *, size_t),
+                size_t size, char *experimentName);
+
 void timeExperiment();
+
+void compsExperiment();
 
 #endif //INC_5C_GETTIMEOFSORT_H

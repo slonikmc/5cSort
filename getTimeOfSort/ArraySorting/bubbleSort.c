@@ -9,3 +9,13 @@ void bubbleSort(int *a, const size_t n) {
             if (a[j - 1] > a[j])
                 swap(&a[j - 1], &a[j]);
 }
+
+long long getBubbleSortNComps(int *a, const size_t n) {
+    long long nComps = 0;
+    for (int i = 0; ++nComps && i < n; ++i)
+        for (int j = i; ++nComps && j < n; ++j)
+            if (++nComps && a[i] > a[j])
+                swap(&a[i], &a[j]);
+
+    return nComps;
+}

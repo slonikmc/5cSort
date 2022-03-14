@@ -9,4 +9,6 @@
 
 void digitSort(int *a, const size_t n);
 
+long long getDigitSortNComp(int *a, const size_t n);
+
 #endif //INC_5C_DIGITSORT_H

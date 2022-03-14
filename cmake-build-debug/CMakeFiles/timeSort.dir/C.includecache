@@ -6,13 +6,29 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/bubbleSort.c
-bubbleSort.h
-C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/bubbleSort.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/ShellSort.h
+../arrayFunctions/arrayFunctions.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/arrayFunctions/arrayFunctions.h
 
 C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/bubbleSort.h
 stdio.h
 -
+../arrayFunctions/arrayFunctions.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/arrayFunctions/arrayFunctions.h
+
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/combSort.h
+../arrayFunctions/arrayFunctions.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/arrayFunctions/arrayFunctions.h
+
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/digitSort.h
+../arrayFunctions/arrayFunctions.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/arrayFunctions/arrayFunctions.h
+
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/insertionSort.h
+../arrayFunctions/arrayFunctions.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/arrayFunctions/arrayFunctions.h
+
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/selectionSort.h
 ../arrayFunctions/arrayFunctions.h
 C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/arrayFunctions/arrayFunctions.h
 
@@ -21,4 +37,42 @@ stdio.h
 -
 stdbool.h
 -
+
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/generatingFuncs/generatingFuncs.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/getTimeOfSort.c
+getTimeOfSort.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/getTimeOfSort.h
+
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/getTimeOfSort.h
+stdlib.h
+-
+stdio.h
+-
+stdbool.h
+-
+time.h
+-
+../getTimeOfSort/arrayFunctions/arrayFunctions.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/arrayFunctions/arrayFunctions.h
+../getTimeOfSort/ArraySorting/bubbleSort.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/bubbleSort.h
+../getTimeOfSort/ArraySorting/selectionSort.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/selectionSort.h
+../getTimeOfSort/ArraySorting/insertionSort.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/insertionSort.h
+../getTimeOfSort/ArraySorting/combSort.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/combSort.h
+../getTimeOfSort/ArraySorting/ShellSort.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/ShellSort.h
+../getTimeOfSort/ArraySorting/digitSort.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/digitSort.h
+../getTimeOfSort/generatingFuncs/generatingFuncs.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/generatingFuncs/generatingFuncs.h
 
