@@ -1,0 +1,2 @@
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc libtimeSort.a CMakeFiles/timeSort.dir/getTimeOfSort/getTimeOfSort.c.obj CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/bubbleSort.c.obj CMakeFiles/timeSort.dir/getTimeOfSort/arrayFunctions/arrayFunctions.c.obj CMakeFiles/timeSort.dir/getTimeOfSort/generatingFuncs/generatingFuncs.c.obj CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/selectionSort.c.obj CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/insertionSort.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ranlib.exe libtimeSort.a

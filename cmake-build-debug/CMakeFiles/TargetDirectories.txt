@@ -1,0 +1,4 @@
+C:/Users/Akelk/CLionProjects/5c/cmake-build-debug/CMakeFiles/5c.dir
+C:/Users/Akelk/CLionProjects/5c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Akelk/CLionProjects/5c/cmake-build-debug/CMakeFiles/timeSort.dir
+C:/Users/Akelk/CLionProjects/5c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

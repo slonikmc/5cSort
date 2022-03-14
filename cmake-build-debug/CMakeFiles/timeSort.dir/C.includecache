@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/generatingFuncs/generatingFuncs.c
+generatingFuncs.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/generatingFuncs/generatingFuncs.h
+
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/generatingFuncs/generatingFuncs.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
