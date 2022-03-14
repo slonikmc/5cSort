@@ -6,15 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/generatingFuncs/generatingFuncs.c
-generatingFuncs.h
-C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/generatingFuncs/generatingFuncs.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/bubbleSort.c
+bubbleSort.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/bubbleSort.h
 
-C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/generatingFuncs/generatingFuncs.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/bubbleSort.h
 stdio.h
 -
-stdlib.h
+../arrayFunctions/arrayFunctions.h
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/arrayFunctions/arrayFunctions.h
+
+C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/arrayFunctions/arrayFunctions.h
+stdio.h
 -
-time.h
+stdbool.h
 -
 

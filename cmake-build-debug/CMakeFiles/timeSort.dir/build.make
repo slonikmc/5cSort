@@ -143,6 +143,45 @@ CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/insertionSort.c.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/insertionSort.c.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Akelk\CLionProjects\5c\getTimeOfSort\ArraySorting\insertionSort.c -o CMakeFiles\timeSort.dir\getTimeOfSort\ArraySorting\insertionSort.c.s
 
+CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.obj: CMakeFiles/timeSort.dir/flags.make
+CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.obj: ../getTimeOfSort/ArraySorting/combSort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akelk\CLionProjects\5c\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\timeSort.dir\getTimeOfSort\ArraySorting\combSort.c.obj -c C:\Users\Akelk\CLionProjects\5c\getTimeOfSort\ArraySorting\combSort.c
+
+CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Akelk\CLionProjects\5c\getTimeOfSort\ArraySorting\combSort.c > CMakeFiles\timeSort.dir\getTimeOfSort\ArraySorting\combSort.c.i
+
+CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Akelk\CLionProjects\5c\getTimeOfSort\ArraySorting\combSort.c -o CMakeFiles\timeSort.dir\getTimeOfSort\ArraySorting\combSort.c.s
+
+CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.obj: CMakeFiles/timeSort.dir/flags.make
+CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.obj: ../getTimeOfSort/ArraySorting/ShellSort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akelk\CLionProjects\5c\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\timeSort.dir\getTimeOfSort\ArraySorting\ShellSort.c.obj -c C:\Users\Akelk\CLionProjects\5c\getTimeOfSort\ArraySorting\ShellSort.c
+
+CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Akelk\CLionProjects\5c\getTimeOfSort\ArraySorting\ShellSort.c > CMakeFiles\timeSort.dir\getTimeOfSort\ArraySorting\ShellSort.c.i
+
+CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Akelk\CLionProjects\5c\getTimeOfSort\ArraySorting\ShellSort.c -o CMakeFiles\timeSort.dir\getTimeOfSort\ArraySorting\ShellSort.c.s
+
+CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.obj: CMakeFiles/timeSort.dir/flags.make
+CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.obj: ../getTimeOfSort/ArraySorting/digitSort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Akelk\CLionProjects\5c\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\timeSort.dir\getTimeOfSort\ArraySorting\digitSort.c.obj -c C:\Users\Akelk\CLionProjects\5c\getTimeOfSort\ArraySorting\digitSort.c
+
+CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Akelk\CLionProjects\5c\getTimeOfSort\ArraySorting\digitSort.c > CMakeFiles\timeSort.dir\getTimeOfSort\ArraySorting\digitSort.c.i
+
+CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Akelk\CLionProjects\5c\getTimeOfSort\ArraySorting\digitSort.c -o CMakeFiles\timeSort.dir\getTimeOfSort\ArraySorting\digitSort.c.s
+
 # Object files for target timeSort
 timeSort_OBJECTS = \
 "CMakeFiles/timeSort.dir/getTimeOfSort/getTimeOfSort.c.obj" \
@@ -150,7 +189,10 @@ timeSort_OBJECTS = \
 "CMakeFiles/timeSort.dir/getTimeOfSort/arrayFunctions/arrayFunctions.c.obj" \
 "CMakeFiles/timeSort.dir/getTimeOfSort/generatingFuncs/generatingFuncs.c.obj" \
 "CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/selectionSort.c.obj" \
-"CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/insertionSort.c.obj"
+"CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/insertionSort.c.obj" \
+"CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.obj" \
+"CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.obj" \
+"CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.obj"
 
 # External object files for target timeSort
 timeSort_EXTERNAL_OBJECTS =
@@ -161,9 +203,12 @@ libtimeSort.a: CMakeFiles/timeSort.dir/getTimeOfSort/arrayFunctions/arrayFunctio
 libtimeSort.a: CMakeFiles/timeSort.dir/getTimeOfSort/generatingFuncs/generatingFuncs.c.obj
 libtimeSort.a: CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/selectionSort.c.obj
 libtimeSort.a: CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/insertionSort.c.obj
+libtimeSort.a: CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.obj
+libtimeSort.a: CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.obj
+libtimeSort.a: CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.obj
 libtimeSort.a: CMakeFiles/timeSort.dir/build.make
 libtimeSort.a: CMakeFiles/timeSort.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Akelk\CLionProjects\5c\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C static library libtimeSort.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Akelk\CLionProjects\5c\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking C static library libtimeSort.a"
 	$(CMAKE_COMMAND) -P CMakeFiles\timeSort.dir\cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\timeSort.dir\link.txt --verbose=$(VERBOSE)
 

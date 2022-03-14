@@ -60,6 +60,9 @@ void timeExperiment() {
             {bubbleSort,    "bubbleSort"},
             {selectionSort, "selectionSort"},
             {insertionSort, "insertionSort"},
+            {combSort,      "combSort"},
+            {ShellSort,     "ShellSort"},
+            {digitSort,     "digitSort"}
             // вы добавите свои сортировки
     };
     const unsigned FUNCS_N = ARRAY_SIZE(sorts);

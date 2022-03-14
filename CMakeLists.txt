@@ -12,6 +12,9 @@ add_library(
         getTimeOfSort/generatingFuncs/generatingFuncs.c getTimeOfSort/generatingFuncs/generatingFuncs.h
         getTimeOfSort/ArraySorting/selectionSort.c getTimeOfSort/ArraySorting/selectionSort.h
         getTimeOfSort/ArraySorting/insertionSort.c getTimeOfSort/ArraySorting/insertionSort.h
+        getTimeOfSort/ArraySorting/combSort.c getTimeOfSort/ArraySorting/combSort.h
+        getTimeOfSort/ArraySorting/ShellSort.c getTimeOfSort/ArraySorting/ShellSort.h
+        getTimeOfSort/ArraySorting/digitSort.c getTimeOfSort/ArraySorting/digitSort.h
 )
 
 target_link_libraries(5c timeSort)

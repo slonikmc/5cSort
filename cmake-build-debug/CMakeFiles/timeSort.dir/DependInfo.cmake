@@ -8,7 +8,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/ShellSort.c" "C:/Users/Akelk/CLionProjects/5c/cmake-build-debug/CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.obj"
   "C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/bubbleSort.c" "C:/Users/Akelk/CLionProjects/5c/cmake-build-debug/CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/bubbleSort.c.obj"
+  "C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/combSort.c" "C:/Users/Akelk/CLionProjects/5c/cmake-build-debug/CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.obj"
+  "C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/digitSort.c" "C:/Users/Akelk/CLionProjects/5c/cmake-build-debug/CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.obj"
   "C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/insertionSort.c" "C:/Users/Akelk/CLionProjects/5c/cmake-build-debug/CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/insertionSort.c.obj"
   "C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/ArraySorting/selectionSort.c" "C:/Users/Akelk/CLionProjects/5c/cmake-build-debug/CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/selectionSort.c.obj"
   "C:/Users/Akelk/CLionProjects/5c/getTimeOfSort/arrayFunctions/arrayFunctions.c" "C:/Users/Akelk/CLionProjects/5c/cmake-build-debug/CMakeFiles/timeSort.dir/getTimeOfSort/arrayFunctions/arrayFunctions.c.obj"

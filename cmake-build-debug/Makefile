@@ -141,6 +141,30 @@ timeSort/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\timeSort.dir\build.make CMakeFiles/timeSort.dir/build
 .PHONY : timeSort/fast
 
+getTimeOfSort/ArraySorting/ShellSort.obj: getTimeOfSort/ArraySorting/ShellSort.c.obj
+.PHONY : getTimeOfSort/ArraySorting/ShellSort.obj
+
+# target to build an object file
+getTimeOfSort/ArraySorting/ShellSort.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\timeSort.dir\build.make CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.obj
+.PHONY : getTimeOfSort/ArraySorting/ShellSort.c.obj
+
+getTimeOfSort/ArraySorting/ShellSort.i: getTimeOfSort/ArraySorting/ShellSort.c.i
+.PHONY : getTimeOfSort/ArraySorting/ShellSort.i
+
+# target to preprocess a source file
+getTimeOfSort/ArraySorting/ShellSort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\timeSort.dir\build.make CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.i
+.PHONY : getTimeOfSort/ArraySorting/ShellSort.c.i
+
+getTimeOfSort/ArraySorting/ShellSort.s: getTimeOfSort/ArraySorting/ShellSort.c.s
+.PHONY : getTimeOfSort/ArraySorting/ShellSort.s
+
+# target to generate assembly for a file
+getTimeOfSort/ArraySorting/ShellSort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\timeSort.dir\build.make CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.s
+.PHONY : getTimeOfSort/ArraySorting/ShellSort.c.s
+
 getTimeOfSort/ArraySorting/bubbleSort.obj: getTimeOfSort/ArraySorting/bubbleSort.c.obj
 .PHONY : getTimeOfSort/ArraySorting/bubbleSort.obj
 
@@ -164,6 +188,54 @@ getTimeOfSort/ArraySorting/bubbleSort.s: getTimeOfSort/ArraySorting/bubbleSort.c
 getTimeOfSort/ArraySorting/bubbleSort.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\timeSort.dir\build.make CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/bubbleSort.c.s
 .PHONY : getTimeOfSort/ArraySorting/bubbleSort.c.s
+
+getTimeOfSort/ArraySorting/combSort.obj: getTimeOfSort/ArraySorting/combSort.c.obj
+.PHONY : getTimeOfSort/ArraySorting/combSort.obj
+
+# target to build an object file
+getTimeOfSort/ArraySorting/combSort.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\timeSort.dir\build.make CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.obj
+.PHONY : getTimeOfSort/ArraySorting/combSort.c.obj
+
+getTimeOfSort/ArraySorting/combSort.i: getTimeOfSort/ArraySorting/combSort.c.i
+.PHONY : getTimeOfSort/ArraySorting/combSort.i
+
+# target to preprocess a source file
+getTimeOfSort/ArraySorting/combSort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\timeSort.dir\build.make CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.i
+.PHONY : getTimeOfSort/ArraySorting/combSort.c.i
+
+getTimeOfSort/ArraySorting/combSort.s: getTimeOfSort/ArraySorting/combSort.c.s
+.PHONY : getTimeOfSort/ArraySorting/combSort.s
+
+# target to generate assembly for a file
+getTimeOfSort/ArraySorting/combSort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\timeSort.dir\build.make CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.s
+.PHONY : getTimeOfSort/ArraySorting/combSort.c.s
+
+getTimeOfSort/ArraySorting/digitSort.obj: getTimeOfSort/ArraySorting/digitSort.c.obj
+.PHONY : getTimeOfSort/ArraySorting/digitSort.obj
+
+# target to build an object file
+getTimeOfSort/ArraySorting/digitSort.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\timeSort.dir\build.make CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.obj
+.PHONY : getTimeOfSort/ArraySorting/digitSort.c.obj
+
+getTimeOfSort/ArraySorting/digitSort.i: getTimeOfSort/ArraySorting/digitSort.c.i
+.PHONY : getTimeOfSort/ArraySorting/digitSort.i
+
+# target to preprocess a source file
+getTimeOfSort/ArraySorting/digitSort.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\timeSort.dir\build.make CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.i
+.PHONY : getTimeOfSort/ArraySorting/digitSort.c.i
+
+getTimeOfSort/ArraySorting/digitSort.s: getTimeOfSort/ArraySorting/digitSort.c.s
+.PHONY : getTimeOfSort/ArraySorting/digitSort.s
+
+# target to generate assembly for a file
+getTimeOfSort/ArraySorting/digitSort.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\timeSort.dir\build.make CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.s
+.PHONY : getTimeOfSort/ArraySorting/digitSort.c.s
 
 getTimeOfSort/ArraySorting/insertionSort.obj: getTimeOfSort/ArraySorting/insertionSort.c.obj
 .PHONY : getTimeOfSort/ArraySorting/insertionSort.obj
@@ -319,9 +391,18 @@ help:
 	@echo ... rebuild_cache
 	@echo ... 5c
 	@echo ... timeSort
+	@echo ... getTimeOfSort/ArraySorting/ShellSort.obj
+	@echo ... getTimeOfSort/ArraySorting/ShellSort.i
+	@echo ... getTimeOfSort/ArraySorting/ShellSort.s
 	@echo ... getTimeOfSort/ArraySorting/bubbleSort.obj
 	@echo ... getTimeOfSort/ArraySorting/bubbleSort.i
 	@echo ... getTimeOfSort/ArraySorting/bubbleSort.s
+	@echo ... getTimeOfSort/ArraySorting/combSort.obj
+	@echo ... getTimeOfSort/ArraySorting/combSort.i
+	@echo ... getTimeOfSort/ArraySorting/combSort.s
+	@echo ... getTimeOfSort/ArraySorting/digitSort.obj
+	@echo ... getTimeOfSort/ArraySorting/digitSort.i
+	@echo ... getTimeOfSort/ArraySorting/digitSort.s
 	@echo ... getTimeOfSort/ArraySorting/insertionSort.obj
 	@echo ... getTimeOfSort/ArraySorting/insertionSort.i
 	@echo ... getTimeOfSort/ArraySorting/insertionSort.s

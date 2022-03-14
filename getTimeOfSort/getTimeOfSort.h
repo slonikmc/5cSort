@@ -13,6 +13,9 @@
 #include "../getTimeOfSort/ArraySorting/bubbleSort.h"
 #include "../getTimeOfSort/ArraySorting/selectionSort.h"
 #include "../getTimeOfSort/ArraySorting/insertionSort.h"
+#include "../getTimeOfSort/ArraySorting/combSort.h"
+#include "../getTimeOfSort/ArraySorting/ShellSort.h"
+#include "../getTimeOfSort/ArraySorting/digitSort.h"
 
 #include "../getTimeOfSort/generatingFuncs/generatingFuncs.h"
 

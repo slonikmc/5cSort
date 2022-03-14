@@ -1,5 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/ShellSort.c.obj"
   "CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/bubbleSort.c.obj"
+  "CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/combSort.c.obj"
+  "CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/digitSort.c.obj"
   "CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/insertionSort.c.obj"
   "CMakeFiles/timeSort.dir/getTimeOfSort/ArraySorting/selectionSort.c.obj"
   "CMakeFiles/timeSort.dir/getTimeOfSort/arrayFunctions/arrayFunctions.c.obj"
