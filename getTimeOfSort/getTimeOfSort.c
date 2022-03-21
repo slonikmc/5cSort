@@ -95,11 +95,11 @@ void timeExperiment() {
     // описание функций сортировки
     SortFunc sorts[] = {
             //{bubbleSort,    "bubbleSort"},
-            //{selectionSort, "selectionSort"},
-            //{insertionSort, "insertionSort"},
-            {combSort,      "combSort"},
-            {ShellSort,     "ShellSort"},
-            {digitSort,     "digitSort"}
+           // {selectionSort, "selectionSort"},
+            {insertionSort, "insertionSort"},
+            //{combSort,      "combSort"},
+            //{ShellSort,     "ShellSort"},
+            //{digitSort,     "digitSort"}
             // вы добавите свои сортировки
     };
     const unsigned FUNCS_N = ARRAY_SIZE(sorts);
@@ -107,16 +107,16 @@ void timeExperiment() {
     // описание функций генерации
     GeneratingFunc generatingFuncs[] = {
             // генерируется случайный массив
-            {generateRandomArray,      "random"},
+           // {generateRandomArray,      "random"},
             // генерируется массив 0, 1, 2, ..., n - 1
             {generateOrderedArray,     "ordered"},
             // генерируется массив n - 1, n - 2, ..., 0
-            {generateOrderedBackwards, "orderedBackwards"}
+           // {generateOrderedBackwards, "orderedBackwards"}
     };
     const unsigned CASES_N = ARRAY_SIZE(generatingFuncs);
 
     // запись статистики в файл
-    for (size_t size = 100000; size <= 1000000; size += 100000) {
+    for (size_t size = 1000000; size <= 10000000; size += 100000) {
         printf(" -------------------------------\n");
         printf("Size: %d\n", size);
         for (int i = 0; i < FUNCS_N; i++) {
@@ -139,10 +139,10 @@ void compsExperiment() {
     SortFunc sorts[] = {
             //{getBubbleSortNComps,    "bubbleSort"},
             //{getSelectionSortNComp, "selectionSort"},
-            //{getInsertionSortNComp, "insertionSort"},
-            {getCombSortNComps,      "combSort"},
-            {getShellSortNComp,     "ShellSort"},
-            {getDigitSortNComp,     "digitSort"}
+            {getInsertionSortNComp, "insertionSort"},
+            //{getCombSortNComps,      "combSort"},
+            //{getShellSortNComp,     "ShellSort"},
+            //{getDigitSortNComp,     "digitSort"}
             // вы добавите свои сортировки
     };
     const unsigned FUNCS_N = ARRAY_SIZE(sorts);
@@ -150,16 +150,16 @@ void compsExperiment() {
     // описание функций генерации
     GeneratingFunc generatingFuncs[] = {
             // генерируется случайный массив
-            {generateRandomArray,      "random"},
+            //{generateRandomArray,      "random"},
             // генерируется массив 0, 1, 2, ..., n - 1
             {generateOrderedArray,     "ordered"},
             // генерируется массив n - 1, n - 2, ..., 0
-            {generateOrderedBackwards, "orderedBackwards"}
+            //{generateOrderedBackwards, "orderedBackwards"}
     };
     const unsigned CASES_N = ARRAY_SIZE(generatingFuncs);
 
     // запись статистики в файл
-    for (size_t size = 100000; size <= 1000000; size += 100000) {
+    for (size_t size = 1000000; size <= 10000000; size += 100000) {
         printf(" -------------------------------\n");
         printf("Size: %d\n", size);
         for (int i = 0; i < FUNCS_N; i++) {

@@ -1,7 +1,6 @@
 #include "getTimeOfSort/getTimeOfSort.h"
 
 int main() {
-
     timeExperiment();
     compsExperiment();
 
